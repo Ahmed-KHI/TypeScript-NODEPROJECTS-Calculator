@@ -1,0 +1,21 @@
+{
+  "name": "typescript-nodeprojects-calculator",
+  "version": "1.0.0",
+  "description": "This TypeScript code implements a user-friendly command-line calculator application named 'Artificialvolutionize'. It allows users to perform basic mathematical operations through interactive prompts.",
+  "main": "calculator.js",
+  "type": "module",
+  "bin": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Command-line calculator","TypeScript","User interaction","Inquirer.js","Number input","Operator selection","Basic arithmetic operations","Addition","Subtraction","Multiplication","Division","Error handling","Chalk","Colored text output","Readability","User-friendly"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
